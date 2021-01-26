@@ -20,3 +20,10 @@ and my dream  to be a big devloper
 | [read2a](https://abdulazizadwi.github.io/Reading-notes/read2a)  | read2a page                             |
 
  
+ #### my git hup profile 
+ 
+ **table of content**
+                                                       | Title                                   |
+| --------------------------------------------------------------- | --------------------------------------- |
+| [profile link](https://github.com/AbdulazizAdwi)     | profile                               |
+ 
