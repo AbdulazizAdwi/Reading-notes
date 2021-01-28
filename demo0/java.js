@@ -1,9 +1,9 @@
-var order = prompt('please chice  one  of these toys bear or dog or cow or cat');
+var order = prompt('please chice  one  of these toys bear or dog or cow or cat you will get one for free:');
 
 
 while(order !==  'bear'  && order !== 'dog' && order !== 'cow' && order !== 'cat'){
 
-    order = prompt('please chice  one  of these toys bear or dog or cow or cat');
+    order = prompt('please chice  one  of these toys bear or dog or cow or cat you will get one for free:');
 
 
 }
