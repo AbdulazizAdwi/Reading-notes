@@ -1,87 +1,87 @@
-<!doctype html>
-<html>
-    <head>
-        <title> loops   </title>
-    </head>
-
-    <body>
-
-
-<h1> comparison operators  </h1>
 
 
 
+#  comparison operators  
+
+
+
+
+!==
+
+ 
+&gt;
+
+ 
+ &lt;
+ 
+ 
+ 
+ &gt;= 
+ 
+ 
+
+ &lt;= 
+
+ 
+ 
 <table>
 
-<tr>
+<tbody><tr>
 
 <td> 
     
 == 
-<p>  </p>
+  
 !=
-<p> </p>
+ 
 
 ===
 </td>
-!==
-<p> </p>
->
-<p> </p>
- <
- <p> </p>
- 
- >= 
- <p> </p>
-
- <= 
-
- <p> </p>
 <td> 
     
     equal to 
-    <p> </p>
+     
     is not equall to 
-    <p> </p>
+     
     strict equal to  
-<p> </p>    
+     
    strict not equal to 
-<p> </p>
+ 
 creater then 
-<p> </p>
+ 
 less then
-<p> </p>
+ 
 creater than or equal 
-<p> </p>
+ 
 less than or equal 
 </td>
 </tr>
 
 
 
-</table>
+</tbody></table>
 
 <table>
 
-<tr>
+<tbody><tr>
     <td>
-         &&
-        <p> </p>
+         &amp;&amp;
+         
      || 
     
-    <p> </p>
+     
     !
     </td>
     <td> logic and 
-    <p> </p>    
-    <p> logic or  </p>
-    <p> </p>
+         
+     logic or  
+     
     logical not
     </td>
 </tr>
 
 
-</table>
+</tbody></table>
 
 
 we can use logical elents  to make our code and put some condition to it
@@ -90,35 +90,43 @@ we can use logical elents  to make our code and put some condition to it
 
 <u> little example </u> 
 
-<p> </p>
+
+ 
 
 
-if(mohammed > Ahmed){
+if(mohammed &gt; Ahmed){
 
-<p>  </p>
+
+  
     and here we write what we want to do 
 
-<p> </p>
+
+ 
 
 }else if(){
 
-    <p> </p>
+    
+ 
     here we write another condition 
-    <p> </p>
+    
+ 
 }else{
-<p> </p>
+
+ 
     
 if nothing is correct do this 
-<p> </p>
+
+ 
 }
 
 
-<h2> loops </h2>
+##  loops 
 
 
-for (var x = 0; x < 10; x++){
+for (var x = 0; x &lt; 10; x++){
 
-<p> </p>
+
+ 
 
 document.write(here the code will be repeat 10 times );
 
@@ -128,21 +136,22 @@ document.write(here the code will be repeat 10 times );
 
 
 foor loops or while loops these are tools 
-<p></p>
- to help us to loop from the codes <br/>
+
+ to help us to loop from the codes   
+
 
  and save some times 
 
  instead to write the code more and more 
 
- <p>     
- </p>
+ 
+     &#10; 
 
-with one code of loops will do the job for you a good example<br/>
+with one code of loops will do the job for you a good example  
+
 
 
 <pre>
-
 
 now imagin you are going to write a code for your website 
 
@@ -195,7 +204,7 @@ first write the select list
 
 select 
 
-for(x=0; x < 19970; x++){
+for(x=0; x &lt; 19970; x++){
 
     option  x    / option 
 
@@ -217,5 +226,4 @@ and this will do the rest for you
 </pre>
 
 
-    </body>
-</html>
+    
