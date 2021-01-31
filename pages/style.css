@@ -1,0 +1,29 @@
+
+* {
+    margin:0;
+}
+
+/*   remove dots from nav    */
+header nav ul {
+    list-style:none;
+}
+
+ 
+
+header nav ul li {
+    list-style:none;
+    display:inline;
+
+}
+
+/*  this one will change the headr links only    */
+header nav ul li a {
+    color:#eeeeee;
+    text-decoration:none;
+
+
+}
+
+#home{
+    color:yellow;
+}

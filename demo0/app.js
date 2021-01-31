@@ -1,6 +1,7 @@
+ 
 var order = prompt('what toys you want to buy bear , dog , cat , cow');
 
-while(order !== 'bear' && order !== 'dog' && order != 'cat' && order != 'cow' ){
+while(order !== 'bear' && order !== 'dog' && order != 'cat' && order != 'cow'  && order !== 'oso'){
 
      order = prompt('what toys you want to buy bear , dog , cat , cow');
   
@@ -9,7 +10,7 @@ while(order !== 'bear' && order !== 'dog' && order != 'cat' && order != 'cow' ){
 
 var itemOrder = '';
 
-if(order === 'bear'){
+if(order === 'bear' ||  order === 'oso'){
   
  itemOrder = '<img  " src="img/bear.png"width="300"height="300"/>'; 
   
