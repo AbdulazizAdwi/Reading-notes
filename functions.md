@@ -21,6 +21,21 @@ in java script **
 
 
 
-![GitHub Logo](https://miro.medium.com/max/5200/0*nSvxzgGDDdKzN0cT.jpeg)
+![code ](https://miro.medium.com/max/5200/0*nSvxzgGDDdKzN0cT.jpeg)
+
+we can start an amazing things and enjoy our codes 
+
+in order to make a function firstly we need to make a name 
+
+for our function then ()  this sighn 
+
+it is mean the argements  when we put a numbers 
+or text we got the result 
+
+we can call the function from anyttime we want 
+
+we just write the code in button or anything 
+
+then the function will do the rest 
 
 
