@@ -1,0 +1,47 @@
+/*  default settings     */
+* {
+    margin:0;
+}
+
+/*   remove dots from nav    */
+header nav ul {
+    list-style:none;
+}
+
+ 
+/*   elemnt selctor     */
+header nav ul li {
+    list-style:none;
+    display:inline;
+    padding:20px;
+
+}
+
+/*  this one will change the headr links only    */
+header nav ul li a {
+    color:#eeeeee;
+    text-decoration:none;
+
+
+}
+
+/*   id selector */
+#home{
+    color:yellow;
+}
+main h1 {
+    text-align: center;
+    margin:20px 0px 20px 60px;
+}
+
+#frontend{
+    float: right; 
+}
+
+.paragraph {
+clear:both;
+color:teal;
+border:1px solid red;
+padding:20px 0px 40px 60px;
+margin:100px;
+}
