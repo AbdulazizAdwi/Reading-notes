@@ -1,4 +1,4 @@
-
+/*  default settings     */
 * {
     margin:0;
 }
@@ -9,10 +9,11 @@ header nav ul {
 }
 
  
-
+/*   elemnt selctor     */
 header nav ul li {
     list-style:none;
     display:inline;
+    padding:20px;
 
 }
 
@@ -24,6 +25,23 @@ header nav ul li a {
 
 }
 
+/*   id selector */
 #home{
     color:yellow;
+}
+main h1 {
+    text-align: center;
+    margin:20px 0px 20px 60px;
+}
+
+#frontend{
+    float: right; 
+}
+
+.paragraph {
+clear:both;
+color:teal;
+border:1px solid red;
+padding:20px 0px 40px 60px;
+margin:100px;
 }
